@@ -2,6 +2,8 @@
 Monke
 This has not been tested on any other computers. It uses PYAutoGUI and pixels.
 Incorrect screen sixe, and it will not work
+Have not installed pytesserract? Will not work
+File paths are not corrected. Will not work
 
 The algorithm is simple:
 It starts a game, based on input form main.py
