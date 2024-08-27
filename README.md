@@ -1,6 +1,7 @@
 # Monke
 Monke
 Has not been updated since 01/07/23
+Is uploaded to show my work to others
 
 This has not been tested on any other computers. It uses PYAutoGUI and pixels.
 Incorrect screen sixe, and it will not work
